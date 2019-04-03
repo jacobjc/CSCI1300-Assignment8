@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1514340643 source:/home/user/Dropbox/1300ProgramsCSCI/Ass8/Assignment8/main.cpp
+	<iostream>
+	"Card.h"
+	"Hand.h"
+	"Deck.h"
+	"Player.h"
+
+1511159812 /home/user/Dropbox/1300ProgramsCSCI/Ass8/Assignment8/include/Card.h
+	<iostream>
+
+1511159811 /home/user/Dropbox/1300ProgramsCSCI/Ass8/Assignment8/include/Hand.h
+	"Card.h"
+	"Deck.h"
+	"Player.h"
+	<iostream>
+
+1511160165 /home/user/Dropbox/1300ProgramsCSCI/Ass8/Assignment8/include/Deck.h
+	<iostream>
+	"Card.h"
+
+1511147418 /home/user/Dropbox/1300ProgramsCSCI/Ass8/Assignment8/include/Player.h
+	<iostream>
+	"Hand.h"
+	"Deck.h"
+
+1511160054 source:/home/user/Dropbox/1300ProgramsCSCI/Ass8/Assignment8/src/Card.cpp
+	"Card.h"
+	<iostream>
+
+1511160649 source:/home/user/Dropbox/1300ProgramsCSCI/Ass8/Assignment8/src/Deck.cpp
+	"Deck.h"
+	<iostream>
+	<fstream>
+
+1511160359 source:/home/user/Dropbox/1300ProgramsCSCI/Ass8/Assignment8/src/Hand.cpp
+	"Hand.h"
+	<fstream>
+	<iostream>
+
+1511146936 source:/home/user/Dropbox/1300ProgramsCSCI/Ass8/Assignment8/src/Player.cpp
+	"Player.h"
+	<iostream>
+	<fstream>
+
